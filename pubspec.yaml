@@ -1,0 +1,7 @@
+name: my_dart_project # <-- Add this line
+version: 1.0.0        # Optional but recommended
+environment:
+  sdk: '>=3.0.0 <4.0.0' # Adjust to your Dart version
+
+dependencies:
+  http: ^1.3.0
